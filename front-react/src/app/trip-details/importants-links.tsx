@@ -3,7 +3,7 @@ import { Link2, Plus } from "lucide-react";
 
 export function ImportantsLinks() {
     return (
-        <div className="space-y-6">
+        <div className="space-y-6 bg-zinc-900 px-3 py-10 shadow-shape rounded-lg">
             <h2 className="font-semibold text-xl">Links importantes</h2>
             <div className="space-y-5">
                 <div className="flex items-center justify-between gap-4">
